@@ -1,5 +1,11 @@
-### Hi there 👋
+# 💻 Senior Backend Developer
 
+
+## 📈 Mi Filosofía
+
+> *"La tecnología debe servir para potenciar la experiencia humana, no reemplazarla"*
+
+Con más de 20 años en la industria, mi enfoque combina excelencia técnica con impacto humano significativo y creando soluciones.
 <!--
 **franxiscodev/franxiscodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
