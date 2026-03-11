@@ -9,7 +9,7 @@ Con más de 20 años en la industria, mi enfoque combina excelencia técnica con
 
 ## 🚀 Proyectos destacados
 
-### 📰 [NoticIA - Sistema de Análisis de Noticias](https://github.com/alexlece/Proyecto_Jupiter_NoticIA)
+### 📰 [NoticIA - Sistema de Análisis de Noticias con IA](https://github.com/alexlece/Proyecto_Jupiter_NoticIA)
 **Rol**: Colaborador activo · Backend Developer
 
 **Mis contribuciones**:
