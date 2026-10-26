@@ -1,6 +1,6 @@
 # Francisco Araujo Ruiz
 
-**AI Engineer · Senior Backend (Python, FastAPI) · Formador en IA**
+**AI Engineer · Senior Backend (Python, FastAPI) · Formador en IA**<br>
 Valencia, España · [ialogia.es](https://ialogia.es) · [LinkedIn](https://www.linkedin.com/in/francisco-araujo-ruiz/)
 
 Más de 25 años en tecnología. Construyo sistemas con LLMs que funcionan fuera de la demo: RAG medido, fallback entre proveedores, IA local cuando el dato no puede salir, y tests que no gastan cuota. Trabajo con Claude Code, Kiro y MCP bajo Specs Driven Development: primero la especificación, después el código.
